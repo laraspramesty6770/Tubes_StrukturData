@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584939395 source:d:\tubes season 2\tubes edisi 2\main.cpp
+	<iostream>
+
+1584970022 source:d:\tubes season 2\tubes edisi 2\listparent.cpp
+	"LISTPARENT.h"
+
+1585023091 d:\tubes season 2\tubes edisi 2\listparent.h
+	<iostream>
+
